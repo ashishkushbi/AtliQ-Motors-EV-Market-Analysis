@@ -23,17 +23,10 @@ The main objective of this project is to provide a comprehensive view of the EV 
 
 # Metrics: -
 
- ❁ **Total Sales**: Calculated for each year, showing the revenue and volume of EVs sold.
- ❁**Year-Over-Year Growth**: Comparison of sales growth between consecutive fiscal years.
- ❁ **EV Sales Revenue:** The percentage of EV sales in relation to total biofuel vehicle sales.
- ❁ **Projected Sales By 2030:** The percentage of EV sales in relation to total biofuel vehicle sales.
-
-
-# Revenue Analysis: -
-
-❁ **Average Sales:** The average sales values calculated at 2 billion, 85 lakhs, and 50 lakhs out of a total of 4 billion.
-❁ **Units Sold:** Represented in terms of thousands ("K") for better readability.
-❁ **Visualization:** Multiple Power BI visuals were used, including bar charts, New card and it's data lable, to represent data dynamically across selected fiscal years.
+ 1.**Total Sales**: Calculated for each year, showing the revenue and volume of EVs sold.
+ 2.**Year-Over-Year Growth**: Comparison of sales growth between consecutive fiscal years.
+ 3.**EV Sales Revenue:** The percentage of EV sales in relation to total biofuel vehicle sales.
+ 4.**Projected Sales By 2030:** The percentage of EV sales in relation to total biofuel vehicle sales.
 
 # Dynamic Data Filtering: -
   - The dashboard allows users to filter data by fiscal year, and vehicle type (2-wheelers/4-wheelers) dynamically adjusting the visualizations to show trends for specific time periods.
@@ -41,7 +34,6 @@ The main objective of this project is to provide a comprehensive view of the EV 
 # Tools Used -
   - Power BI: For data modeling, visualization, and analysis.
   - Excel/CSV: Data input files containing sales information.
-
 
 
 # Recommendations and Suggentions -
